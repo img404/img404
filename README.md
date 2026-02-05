@@ -2,15 +2,9 @@
 
 i'm learning front end development! check out my github page (linked below) for updates ✨
 
-you can call me:
-- img404
-- image not found
-- image
-- finnigan
+you can call me img404, image not found, image, fionna, and/or finnigan. i use both she/her & he/him pronouns!
 
-i use she/her & he/him pronouns interchangeably
-
-my interests include riichi mahjong, linguistics, and TTRPGs
+my interests include riichi mahjong, linguistics, and TTRPGs. right now i'm fixated on graphing calculators. 
 
 <!--
 **img404/img404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
