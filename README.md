@@ -1,4 +1,16 @@
-## Hi there 👋
+## hi 👋
+
+i'm learning front end development! check out my github page (linked below) for updates ✨
+
+you can call me:
+- img404
+- image not found
+- image
+- finnigan
+
+i use she/her & he/him pronouns interchangeably
+
+my interests include riichi mahjong, linguistics, and TTRPGs
 
 <!--
 **img404/img404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
