@@ -1,8 +1,8 @@
 ## hi 👋
 
-i'm a computer science student! check out my github page (linked below) for updates ✨
-
 you can call me img404, image not found, image, fionna, and/or finnigan. i use both she/her & he/him pronouns!
+
+i'm a computer science student! check out my github page (linked below) for updates ✨
 
 my interests include riichi mahjong, linguistics, and TTRPGs.
 
