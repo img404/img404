@@ -1,10 +1,10 @@
 ## hi 👋
 
-i'm learning front end development! check out my github page (linked below) for updates ✨
+i'm a computer science student! check out my github page (linked below) for updates ✨
 
 you can call me img404, image not found, image, fionna, and/or finnigan. i use both she/her & he/him pronouns!
 
-my interests include riichi mahjong, linguistics, and TTRPGs. right now i'm fixated on graphing calculators. 
+my interests include riichi mahjong, linguistics, and TTRPGs.
 
 <!--
 **img404/img404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
