@@ -2,9 +2,7 @@
 
 you can call me img404, image not found, image, fionna, and/or finnigan. i use both she/her & he/him pronouns!
 
-i'm a computer science student! check out my github page (linked below) for updates ✨
-
-my interests include riichi mahjong, linguistics, and TTRPGs.
+i'm a computer science student at UMGC. my interests include riichi mahjong, linguistics, and TTRPGs.
 
 <!--
 **img404/img404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
